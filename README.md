@@ -1,6 +1,4 @@
-# Atividade-Continua
- 
-# README - Projeto de Integração com a API ViaCEP
+# Projeto de Integração com a API ViaCEP
 
 ## Descrição do Projeto
 
