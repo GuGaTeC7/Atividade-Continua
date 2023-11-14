@@ -23,11 +23,11 @@ Este projeto foi desenvolvido como parte de uma atividade na qual realizamos a i
 
 Contribuições para essa atividade:
 
-- [Gustavo Luiz da Silva | 2301710]
-- [Andson Eloi da Silva | 2301714]
-- [Erick Siqueira Munarin | 2301710]
-- [Kauan Bulgaroni Silva | 2301710]
-- [Leonardo Silva Mattos | 2301505]
+- Gustavo Luiz da Silva | 2301710
+- Andson Eloi da Silva | 2301714
+- Erick Siqueira Munarin | 2301710
+- Kauan Bulgaroni Silva | 2301710
+- Leonardo Silva Mattos | 2301505
 
 ##
 
