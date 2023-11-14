@@ -25,8 +25,8 @@ Contribuições para essa atividade:
 
 - Gustavo Luiz da Silva | 2301710
 - Andson Eloi da Silva | 2301714
-- Erick Siqueira Munarin | 2301710
-- Kauan Bulgaroni Silva | 2301710
+- Erick Siqueira Munarin | 
+- Kauan Bulgaroni Silva | 2202097
 - Leonardo Silva Mattos | 2301505
 
 ##
