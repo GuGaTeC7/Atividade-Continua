@@ -1,7 +1,5 @@
 # Projeto de Integração com a API ViaCEP
 
-## Descrição do Projeto
-
 Este projeto foi desenvolvido como parte de uma atividade na qual realizamos a integração da API ViaCEP em um formulário de cadastro. O objetivo é facilitar o preenchimento automático de endereços com base no CEP informado.
 
 ## Como Usar
