@@ -29,4 +29,6 @@ Contribuições para essa atividade:
 - [Kauan Bulgaroni Silva | 2301710]
 - [Leonardo Silva Mattos | 2301505]
 
+##
+
 **Observação:** Certifique-se de utilizar a extensão Live Server para que a interface do projeto carregue.
